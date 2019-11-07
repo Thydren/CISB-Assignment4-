@@ -16,7 +16,6 @@ h1, h2, h3 {
 }
 
 aside {
-	background-color: aqua;
 	float: left;
 	width: 20%;
 }
@@ -36,7 +35,6 @@ img {
 main {
 float: left;
 width: 70%;
-background-color: red;
 }
 
 nav {
@@ -50,5 +48,4 @@ width: 10%;
 
 #main-container {
 float: left;
-background-color: pink;
 }
